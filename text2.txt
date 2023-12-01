@@ -1,0 +1,10 @@
+<doctype.html>
+<html>
+<head>
+<tittle> hello world!</head>
+</head>
+<body>
+<h1>GITHUB</h1>
+<p>this github world git is version  control</p>
+</body>
+</html>
